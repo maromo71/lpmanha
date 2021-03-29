@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1617017947 source:/home/maromo/fatec/lpmanha/calcularImc/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1617017976 source:/home/maromo/fatec/lpmanha/calcularImc/imc.c
+	<stdio.h>
+	<stdlib.h>
+
