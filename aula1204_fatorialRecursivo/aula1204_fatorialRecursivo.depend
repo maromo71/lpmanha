@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618227470 source:/home/maromo/fatec/lpmanha/aula1204_fatorialRecursivo/main.c
+	<stdio.h>
+	<stdlib.h>
+
