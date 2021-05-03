@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1620043415 source:/home/maromo/fatec/lpmanha/aula0305/cadastro_produtos/main.c
+1620044718 source:/home/maromo/fatec/lpmanha/aula0305/cadastro_produtos/main.c
 	<stdio.h>
 	<stdlib.h>
 	"produto.h"

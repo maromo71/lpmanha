@@ -16,6 +16,7 @@ int main()
     int codigo_procurado = 0;
     int opc;
     do {
+        system("clear");
         printf("Menu Principal \n");
         printf("1..Cadastrar \n");
         printf("2..Localizar \n");
@@ -29,24 +30,29 @@ int main()
             case 1:
                 cadastrar(produtos, posicao);
                 posicao++;
+                getchar();getchar();
                 break;
             case 2:
                 printf("Digite o código do produto que quer encontrar \n");
                 scanf("%d", &codigo_procurado);
                 localizar(produtos, codigo_procurado, posicao);
+                getchar();getchar();
                 break;
             case 3:
                 printf("Digite o código do produto que quer alterar \n");
                 scanf("%d", &codigo_procurado);
                 alterar(produtos, codigo_procurado, posicao);
+                getchar();getchar();
                 break;
             case 4:
                 listar(produtos, posicao);
+                getchar();getchar();
                 break;
             case 5:
                 printf("Digite o código do produto que quer saber a qtd \n");
                 scanf("%d", &codigo_procurado);
                 imprimirQuantidade(produtos, codigo_procurado, posicao);
+                getchar();getchar();
                 break;
             case 9:
                 printf("Fim do programa \n");
