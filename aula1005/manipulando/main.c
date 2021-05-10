@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main() {
-    char * nome_arquivo;
+    char nome_arquivo[51];
     printf("Digite o nome do arquivo a ser aberto: \n");
     scanf("%[^\n]s", nome_arquivo);
 

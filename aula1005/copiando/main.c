@@ -1,29 +1,38 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main()
-{
+
+int main() {
+    char nome1[51];
+    char nome2[51];
+
+    printf("Digite o nome do arquivo de origem: \n");
+    scanf("%[^\n]s", nome1);
+    while(getchar()!='\n');
+
+    printf("Digite o nome do arquivo de destino: \n");
+    scanf("%[^\n]s", nome2);
+    while(getchar()!='\n');
 
     FILE *fin, *fout; /* fin para entrada, fout para saida */
     int ch; /*Inteiro para ler os caracteres */
     /* Testar a linha de comando */
    /* Abrir o Arquivo argv[1] (Origem) */
-    fin = fopen("texto.txt", "rb");
+    fin = fopen(nome1, "rb");
     if(fin==NULL){
         printf("Impossível abrir o arquivo \n");
-        system("PAUSE");
-        exit(2);
+        exit(1);
     }
     /* Abrir o Arquivo argv[2] (destino) */
-    if ((fout=fopen("saida2.txt", "wb"))==NULL)
+    if ((fout=fopen(nome2, "w+"))==NULL)
     {
         printf("Impossível criar o arquivo \n");
-        system("PAUSE");
-        exit(3);
+        exit(2);
     }
     while ((ch=fgetc(fin))!=EOF){
         fputc(ch, fout);
     }
+    printf("Arquivo copiado com sucesso. Veja no diretório.\n");
     fclose(fin);
     fclose(fout);
     return 0;
