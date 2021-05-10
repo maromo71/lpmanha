@@ -1,0 +1,5 @@
+Marta   10  8
+Pedro   8   8
+Antonio 10  8
+Rodrigo 5   5
+Maria   5   7

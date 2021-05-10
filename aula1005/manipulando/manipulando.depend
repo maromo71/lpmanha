@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620647762 source:/home/maromo/fatec/lpmanha/aula1005/manipulando/main.c
+	<stdio.h>
+	<stdlib.h>
+
