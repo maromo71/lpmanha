@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1621250394 source:/home/maromo/fatec/lpmanha/revisao/exercicio1/funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"funcoes.h"
+
+1621250071 /home/maromo/fatec/lpmanha/revisao/exercicio1/funcoes.h
+
+1621250422 source:/home/maromo/fatec/lpmanha/revisao/exercicio1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes.h"
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621252408 source:/home/maromo/fatec/lpmanha/revisao/exercicio2/main.c
+	<stdio.h>
+	<stdlib.h>
+

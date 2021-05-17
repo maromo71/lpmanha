@@ -4,7 +4,8 @@
 int main() {
     char nome_arquivo[51];
     printf("Digite o nome do arquivo a ser aberto: \n");
-    scanf("%[^\n]s", nome_arquivo);
+    //scanf("%[^\n]s", nome_arquivo);
+    fgets(nome_arquivo, 50, stdin);
 
     FILE * fp = fopen(nome_arquivo, "r"); //Abrindo arquivo só para leitura (r)
     if(fp != NULL){
