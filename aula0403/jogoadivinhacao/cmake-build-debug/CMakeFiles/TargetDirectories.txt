@@ -1,0 +1,3 @@
+/Users/marcosmoraes/lpmanha/aula0403/jogoadivinhacao/cmake-build-debug/CMakeFiles/jogoadivinhacao.dir
+/Users/marcosmoraes/lpmanha/aula0403/jogoadivinhacao/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/marcosmoraes/lpmanha/aula0403/jogoadivinhacao/cmake-build-debug/CMakeFiles/rebuild_cache.dir
