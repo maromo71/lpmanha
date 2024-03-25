@@ -1,0 +1,3 @@
+/Users/marcosmoraes/lpmanha/aula2503/exemploVetor/cmake-build-debug/CMakeFiles/exemploVetor.dir
+/Users/marcosmoraes/lpmanha/aula2503/exemploVetor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/marcosmoraes/lpmanha/aula2503/exemploVetor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
