@@ -1,0 +1,3 @@
+/Users/marcosmoraes/lpmanha/aula2503/projetoCalculadora/cmake-build-debug/CMakeFiles/projetoCalculadora.dir
+/Users/marcosmoraes/lpmanha/aula2503/projetoCalculadora/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/marcosmoraes/lpmanha/aula2503/projetoCalculadora/cmake-build-debug/CMakeFiles/rebuild_cache.dir
