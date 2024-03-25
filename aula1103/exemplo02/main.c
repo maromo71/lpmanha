@@ -19,5 +19,7 @@ int main() {
     strcat(nomeCompleto, sobrenome);
     printf("Nome completo: %s\n", nomeCompleto);
     printf("Total de caracteres: %lu\n", strlen(nomeCompleto));
+    puts("\x1B[2J\x1B[0;0H");
+    printf("Tela Limpa, será ?");
     return 0;
 }
