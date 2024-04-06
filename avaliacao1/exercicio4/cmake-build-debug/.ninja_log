@@ -1,0 +1,9 @@
+# ninja log v5
+0	42	1712409959325522601	build.ninja	c75df6b8effa8481
+0	134	1712409959464360288	CMakeFiles/exercicio4.dir/main.c.o	de5bb41d6de5b740
+0	135	1712409959464360330	CMakeFiles/exercicio4.dir/primos.c.o	3d9829f443bbae53
+135	230	1712409959559807185	exercicio4	eea5a29f4bea7ed4
+0	125	1712410046170645959	CMakeFiles/exercicio4.dir/main.c.o	de5bb41d6de5b740
+126	210	1712410046254191488	exercicio4	eea5a29f4bea7ed4
+1	36	1712410055631031255	CMakeFiles/exercicio4.dir/main.c.o	de5bb41d6de5b740
+36	61	1712410055655440096	exercicio4	eea5a29f4bea7ed4

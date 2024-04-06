@@ -1,0 +1,3 @@
+/Users/marcosmoraes/lpmanha/avaliacao1/exercicio2/cmake-build-debug/CMakeFiles/exercicio2.dir
+/Users/marcosmoraes/lpmanha/avaliacao1/exercicio2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/marcosmoraes/lpmanha/avaliacao1/exercicio2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
