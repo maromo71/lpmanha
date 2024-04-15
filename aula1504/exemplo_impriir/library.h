@@ -1,0 +1,6 @@
+#ifndef EXEMPLO_IMPRIIR_LIBRARY_H
+#define EXEMPLO_IMPRIIR_LIBRARY_H
+
+void hello(void);
+
+#endif //EXEMPLO_IMPRIIR_LIBRARY_H

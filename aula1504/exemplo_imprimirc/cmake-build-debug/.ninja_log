@@ -1,0 +1,9 @@
+# ninja log v5
+0	135	1713189366067658127	CMakeFiles/exemplo_imprimirc.dir/main.c.o	8447b977e05ed02d
+136	164	1713189366096379048	exemplo_imprimirc	2a36d4855295fbe1
+1	29	1713189376581493903	CMakeFiles/exemplo_imprimirc.dir/main.c.o	8447b977e05ed02d
+29	55	1713189376606060599	exemplo_imprimirc	2a36d4855295fbe1
+0	24	1713189440847806802	CMakeFiles/exemplo_imprimirc.dir/main.c.o	8447b977e05ed02d
+24	50	1713189440871738396	exemplo_imprimirc	2a36d4855295fbe1
+1	37	1713189811898621658	CMakeFiles/exemplo_imprimirc.dir/main.c.o	8447b977e05ed02d
+37	126	1713189811985399690	exemplo_imprimirc	2a36d4855295fbe1

@@ -1,0 +1,3 @@
+/Users/marcosmoraes/lpmanha/aula1504/exemplo_impriir/cmake-build-debug/CMakeFiles/exemplo_impriir.dir
+/Users/marcosmoraes/lpmanha/aula1504/exemplo_impriir/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/marcosmoraes/lpmanha/aula1504/exemplo_impriir/cmake-build-debug/CMakeFiles/rebuild_cache.dir
