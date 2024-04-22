@@ -1,0 +1,3 @@
+/Users/marcosmoraes/lpmanha/testefibo/cmake-build-debug/CMakeFiles/testefibo.dir
+/Users/marcosmoraes/lpmanha/testefibo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/marcosmoraes/lpmanha/testefibo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
