@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.28)
+project(exemplo04a C)
+
+set(CMAKE_C_STANDARD 11)
+
+add_executable(exemplo04a main.c)
