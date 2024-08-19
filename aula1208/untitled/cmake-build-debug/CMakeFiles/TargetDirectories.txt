@@ -1,0 +1,3 @@
+/Users/marcosmoraes/lpmanha/aula1208/untitled/cmake-build-debug/CMakeFiles/untitled.dir
+/Users/marcosmoraes/lpmanha/aula1208/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/marcosmoraes/lpmanha/aula1208/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
