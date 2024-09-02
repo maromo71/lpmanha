@@ -9,6 +9,10 @@
  * @author Maromo
  */
 
+#ifndef CALCULADORA_H
+#define CALCULADORA_H
+
+
 /**
  * Função somar - Soma dois valores inteiros
  * @param x primeiro valor informado
@@ -31,3 +35,4 @@ int dividir(int x, int y);
 
 int encontrar_resto(int x, int y);
 
+#endif  // CALCULADORA_H
