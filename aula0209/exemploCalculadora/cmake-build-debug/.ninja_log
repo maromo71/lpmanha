@@ -1,0 +1,11 @@
+# ninja log v6
+1	121	1725280201971941587	CMakeFiles/exemploCalculadora.dir/main.c.o	cb115a9e16a5b069
+1	122	1725280201972192539	CMakeFiles/exemploCalculadora.dir/calculadora.c.o	c942961eee83b02e
+2	26	1725280275884961682	CMakeFiles/exemploCalculadora.dir/calculadora.c.o	c942961eee83b02e
+1	31	1725280275884393238	CMakeFiles/exemploCalculadora.dir/main.c.o	cb115a9e16a5b069
+1	26	1725280296472916677	CMakeFiles/exemploCalculadora.dir/main.c.o	cb115a9e16a5b069
+27	51	1725280296498202030	exemploCalculadora	c62bd77d05e37bea
+0	23	1725280365968635148	CMakeFiles/exemploCalculadora.dir/main.c.o	cb115a9e16a5b069
+23	46	1725280365991400405	exemploCalculadora	c62bd77d05e37bea
+1	28	1725280449347387049	CMakeFiles/exemploCalculadora.dir/main.c.o	cb115a9e16a5b069
+28	53	1725280449374565940	exemploCalculadora	c62bd77d05e37bea
