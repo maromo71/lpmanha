@@ -4,10 +4,10 @@ int verPositividade(int valor);
 
 //main
 int main(void) {
-    int v;
+    int valor;
     printf("Digite um valor: \n");
-    scanf("%d", &v);
-    int resultado = verPositividade(v);
+    scanf("%d", &valor);
+    int resultado = verPositividade(valor);
     printf("Resultado: %d \n", resultado);
     return 0;
 }

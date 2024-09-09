@@ -31,7 +31,6 @@ int validarData(int dia, int mes, int ano){
     }
     return 1;
 }
-
 int bissexto(int ano){
     if(ano % 400==0) return 1;
     if(ano % 4==0){

@@ -11,7 +11,7 @@ int main(void) {
     printf("Digite o valor de c: \n");
     scanf("%d", &c);
     int resultado = somarIntervalorDivisiveis(a, b, c);
-    printf("Soma do intervalor divisivel por %d = %d", a, resultado);
+    printf("Soma do intervalo divisivel por %d = %d", a, resultado);
     return 0;
 }
 int somarIntervalorDivisiveis(int a, int b, int c){

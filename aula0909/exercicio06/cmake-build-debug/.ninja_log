@@ -1,3 +1,5 @@
 # ninja log v6
 0	45	1725883810399930357	CMakeFiles/exercicio06.dir/main.c.o	a73ef949ba953eca
 45	68	1725883810444898031	exercicio06	1aaf5aa9d9dc358
+1	189	1725888647024088817	CMakeFiles/exercicio06.dir/main.c.o	a73ef949ba953eca
+189	303	1725888647211594299	exercicio06	1aaf5aa9d9dc358
