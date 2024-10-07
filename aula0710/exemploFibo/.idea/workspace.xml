@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="exemploFibo" targetName="exemploFibo" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8115018f-6672-41a4-b95a-9fa756f11215" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../avaliacao1/questao01/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../avaliacao1/questao02/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../avaliacao1/questao04/.idea/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao01/cmake-build-debug/.cmake/api/v1/reply/cache-v2-38be44c0c27946d3e1df.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao01/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-fb7ac088e51a79158ea7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao01/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-7cd97e6a6ad91ebbd674.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao01/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao01/cmake-build-debug/.cmake/api/v1/reply/index-2024-09-23T11-05-01-0540.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao01/cmake-build-debug/.cmake/api/v1/reply/target-questao01-Debug-a693b966c476af3012b8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao01/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-b5b70a09b5cb5c487388.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao01/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../avaliacao1/questao01/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao01/cmake-build-debug/CMakeFiles/3.28.1/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao01/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao01/cmake-build-debug/CMakeFiles/3.28.1/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao01/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao01/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../avaliacao1/questao01/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao01/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../avaliacao1/questao01/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao01/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../avaliacao1/questao01/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao01/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../avaliacao1/questao01/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao01/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao01/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../avaliacao1/questao01/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao01/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../avaliacao1/questao01/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao02/cmake-build-debug/.cmake/api/v1/reply/cache-v2-3a5a215e90d117e3c769.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao02/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-f1c898ece1a5d858cd28.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao02/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-c71f361f66d585d4faa1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao02/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao02/cmake-build-debug/.cmake/api/v1/reply/index-2024-09-23T11-07-36-0110.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao02/cmake-build-debug/.cmake/api/v1/reply/target-questao02-Debug-d59b10bd239ca02a3ece.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao02/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-b5b70a09b5cb5c487388.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao02/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../avaliacao1/questao02/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao02/cmake-build-debug/CMakeFiles/3.28.1/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao02/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao02/cmake-build-debug/CMakeFiles/3.28.1/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao02/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao02/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../avaliacao1/questao02/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao02/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../avaliacao1/questao02/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao02/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../avaliacao1/questao02/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao02/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../avaliacao1/questao02/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao02/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao02/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../avaliacao1/questao02/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao02/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../avaliacao1/questao02/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao02/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../avaliacao1/questao02/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao04/cmake-build-debug/.cmake/api/v1/reply/cache-v2-d79289dee5a270eb15f1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao04/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-d753fabba985c9aeae79.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao04/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-da5cb016a3795f3bd074.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao04/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao04/cmake-build-debug/.cmake/api/v1/reply/index-2024-09-23T11-24-15-0449.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao04/cmake-build-debug/.cmake/api/v1/reply/target-questao04-Debug-c9f1e7fb0fb42fc60e4f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao04/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-b5b70a09b5cb5c487388.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao04/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../avaliacao1/questao04/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao04/cmake-build-debug/CMakeFiles/3.28.1/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao04/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao04/cmake-build-debug/CMakeFiles/3.28.1/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao04/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao04/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../avaliacao1/questao04/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao04/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../avaliacao1/questao04/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao04/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../avaliacao1/questao04/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao04/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../avaliacao1/questao04/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao04/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao04/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../avaliacao1/questao04/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../avaliacao1/questao04/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../avaliacao1/questao04/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/main.c" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2024" />
+    <option name="minorVersion" value="2.0.1" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2n6qPloPE3eg4PKTDRegmJC1kvg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CMake Application.exemploFibo.executor": "Run",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exemploFibo" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="exemploFibo" TARGET_NAME="exemploFibo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="exemploFibo" RUN_TARGET_NAME="exemploFibo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8115018f-6672-41a4-b95a-9fa756f11215" name="Changes" comment="" />
+      <created>1728303851997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728303851997</updated>
+      <workItem from="1728303853360" duration="1972000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+</project>

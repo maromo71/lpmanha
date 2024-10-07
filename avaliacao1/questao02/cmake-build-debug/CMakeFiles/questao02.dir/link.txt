@@ -1,0 +1,3 @@
+C:\Users\ALBA\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\questao02.dir/objects.a
+C:\Users\ALBA\AppData\Local\Programs\CLion\bin\mingw\bin\ar.exe qc CMakeFiles\questao02.dir/objects.a @CMakeFiles\questao02.dir\objects1.rsp
+C:\Users\ALBA\AppData\Local\Programs\CLion\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\questao02.dir/objects.a -Wl,--no-whole-archive -o questao02.exe -Wl,--out-implib,libquestao02.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\questao02.dir\linkLibs.rsp
