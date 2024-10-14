@@ -1,0 +1,15 @@
+# ninja log v6
+5	112	7506101180946460	CMakeFiles/exemploTexto.dir/main.c.obj	d3714adb31630d45
+114	242	7506101182042635	exemploTexto.exe	a0f720eabda570e9
+42	242	7506110684779422	CMakeFiles/exemploTexto.dir/main.c.obj	d3714adb31630d45
+243	403	7506110686777788	exemploTexto.exe	a0f720eabda570e9
+25	99	7506110975828723	CMakeFiles/exemploTexto.dir/main.c.obj	d3714adb31630d45
+100	188	7506110976575198	exemploTexto.exe	a0f720eabda570e9
+41	150	7506116688805230	CMakeFiles/exemploTexto.dir/main.c.obj	d3714adb31630d45
+151	296	7506116689892536	exemploTexto.exe	a0f720eabda570e9
+19	99	7506117168254723	CMakeFiles/exemploTexto.dir/main.c.obj	d3714adb31630d45
+100	196	7506117169063214	exemploTexto.exe	a0f720eabda570e9
+23	114	7506117622090254	CMakeFiles/exemploTexto.dir/main.c.obj	d3714adb31630d45
+115	222	7506117623008851	exemploTexto.exe	a0f720eabda570e9
+20	107	7506118289248598	CMakeFiles/exemploTexto.dir/main.c.obj	d3714adb31630d45
+108	209	7506118290130179	exemploTexto.exe	a0f720eabda570e9
