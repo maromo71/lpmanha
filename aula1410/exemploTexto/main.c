@@ -1,4 +1,5 @@
 #include <stdio.h>
+int tamanhoPalavra(char *ps);
 int contarCaractere(char *ps, char ch);
 void imprimir(char *ps);
 void trocarLetra(char *ps, char ch_old, char ch_new);
@@ -15,6 +16,7 @@ int main(void) {
     trocarLetra(palavra, 'a', 'x');
     printf("\n");
     printf("%s\n", palavra);
+    printf("Tamanho da palavra: %d \n", tamanhoPalavra(palavra));
     return 0;
 }
 int contarCaractere(char *ps, char ch) {
@@ -42,4 +44,9 @@ void trocarLetra(char *ps, char ch_old, char ch_new) {
         if(*ps == ch_old) *ps = ch_new; //troca caractere antigo pelo novo
         ps++; //desloca para o proximo caractere da palavra
     }
+}
+int tamanhoPalavra(char *ps) {
+    char *pini = ps; // guardar o endereco inicial em pini
+    while(*ps != '\0') ps++; //deslocar os ps ate o '\0' (fim)
+    return ps - pini;
 }
