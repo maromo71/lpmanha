@@ -1,0 +1,11 @@
+# ninja log v6
+11	164	7524222138526458	CMakeFiles/exemplosStruct.dir/main.c.obj	891e9382a708eb4d
+167	418	7524222140084583	exemplosStruct.exe	b2e6826558fd3faa
+22	131	7524222309055176	CMakeFiles/exemplosStruct.dir/main.c.obj	891e9382a708eb4d
+132	279	7524222310155073	exemplosStruct.exe	b2e6826558fd3faa
+28	150	7524223262438457	CMakeFiles/exemplosStruct.dir/main.c.obj	891e9382a708eb4d
+152	337	7524223263676248	exemplosStruct.exe	b2e6826558fd3faa
+9	117	7524225053878302	CMakeFiles/exemplosStruct.dir/main.c.obj	891e9382a708eb4d
+119	287	7524225054968289	exemplosStruct.exe	b2e6826558fd3faa
+23	137	7524229074700545	CMakeFiles/exemplosStruct.dir/main.c.obj	891e9382a708eb4d
+139	312	7524229075850521	exemplosStruct.exe	b2e6826558fd3faa
