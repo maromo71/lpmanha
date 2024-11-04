@@ -15,14 +15,14 @@ void ler_dados(int pos) {
         printf("Erro: posicao invalida\n");
         return;
     }
-    v[pos] = (p_aluno) malloc(sizeof(struc Aluno));
+    v[pos] = (p_aluno) malloc(sizeof(struct Aluno));
     printf("Digite os dados do aluno: \n");
     fflush(stdin);
     printf("Digite o nome do aluno: \n");
     scanf(" %[^\n]s", v[pos]->nome);
     fflush(stdin);
     printf("Digite o codigo de matricula:\n");
-    scanf("%d", &v[pos]->codigo);
+    scanf("%d", &v[pos]->matricula);
     fflush(stdin);
     printf("Digite o endereco do aluno:\n");
     scanf(" %[^\n]s", v[pos]->endereco);
@@ -41,7 +41,7 @@ void imprimir_unico(int pos) {
     printf("Maticula: %d\n", v[pos]->matricula);
     printf("Endereco: %s\n", v[pos]->endereco);
     printf("Telefone: %s\n", v[pos]->telefone);
-    printf("Nota: %s\n", v[pos]->nota);
+    printf("Nota: %lf\n", v[pos]->nota);
     printf("-----------------------------------\n\n");
 }
 
