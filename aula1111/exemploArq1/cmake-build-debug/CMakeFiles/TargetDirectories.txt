@@ -1,0 +1,3 @@
+C:/lpmanha/aula1111/exemploArq1/cmake-build-debug/CMakeFiles/exemploArq1.dir
+C:/lpmanha/aula1111/exemploArq1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/lpmanha/aula1111/exemploArq1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
