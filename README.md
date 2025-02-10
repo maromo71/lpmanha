@@ -41,7 +41,6 @@ Os alunos podem sugerir melhorias e correções via pull requests. Dúvidas pode
 
 - 📌 Bons estudos e boa programação! 🚀
 
-
-Esse `README.md` traz uma explicação clara e organizada do repositório, ajudando os alunos a utilizá-lo de forma eficiente. Caso queira adicionar mais informações ou personalizar algo, me avise! 🚀
+Prof. Me. Marcos Roberto de Moraes
 
 
