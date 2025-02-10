@@ -30,7 +30,8 @@ Cada diretório conterá os códigos desenvolvidos na respectiva aula, além de 
    git clone https://github.com/maromo71/lpmanha.git
 
 2. **Abra o código na IDE CLion**
-Compile e execute os arquivos C
+
+3. **Compile e execute os arquivos C**
 
 🏆 Contribuição
 Os alunos podem sugerir melhorias e correções via pull requests. Dúvidas podem ser discutidas na seção de issues.
