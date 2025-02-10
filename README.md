@@ -15,12 +15,13 @@ Este repositório contém todos os códigos desenvolvidos durante as aulas da di
 ## 📂 Estrutura do Repositório  
 O repositório será organizado em pastas separadas pelo dia de aula, seguindo o número do código.  
 
-lpmanha/ 
-│── aula1002/ 
+```
+lpmanha
+│── aula1002
 │ ├── exemplo1.c 
 │ ├── exemplo2.c 
 │── README.md
-
+```
 
 Cada diretório conterá os códigos desenvolvidos na respectiva aula, além de um arquivo `README.md` explicando os conceitos abordados.
 
