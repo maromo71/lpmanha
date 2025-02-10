@@ -34,7 +34,7 @@ Cada diretório conterá os códigos desenvolvidos na respectiva aula, além de 
 
 3. **Compile e execute os arquivos C**
 
-🏆 Contribuição
+## 🏆 Contribuição
 Os alunos podem sugerir melhorias e correções via pull requests. Dúvidas podem ser discutidas na seção de issues.
 
 📌 Mantenha o código organizado e bem documentado!
