@@ -1,5 +1,4 @@
 //
 // Created by memar on 10/02/2025.
 //
-
-#include "somar.h"
+int somar(int a, int b);

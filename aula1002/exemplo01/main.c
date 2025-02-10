@@ -1,14 +1,5 @@
-
 #include <stdio.h>
-
-/**
- *
- * @param x Recebe o primeiro valor
- * @param y Recebe o segundo valor
- * @return Soma dos dois valores
- */
-
-
+#include "somar.h"
 
 int main(void) {
     //Imprimir na tela a palavra Hello World
@@ -17,9 +8,7 @@ int main(void) {
     int a = 10;
     int b = 30;
 
-
-    int soma = somar(a, b);
-
-    printf("Valor da soma %d \n", soma);
+    int x = somar(a,b);
+    printf("Valor da soma: %d\n", x);
     return 0;
 }
