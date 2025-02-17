@@ -1,0 +1,3 @@
+C:/lpmanha/aula1702/exemplo05/cmake-build-debug/CMakeFiles/exemplo05.dir
+C:/lpmanha/aula1702/exemplo05/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/lpmanha/aula1702/exemplo05/cmake-build-debug/CMakeFiles/rebuild_cache.dir

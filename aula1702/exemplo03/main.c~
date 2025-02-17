@@ -1,0 +1,8 @@
+#include <stdio.h>
+int a = 35;
+int main(void) {
+
+    printf("Valor de a: %d \n", a);
+    int a = 10;
+    return 0;
+}
