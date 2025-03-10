@@ -1,0 +1,19 @@
+#include <stdio.h>
+/**
+* Programa que soma n valores dados pelo usuário,
+* considerando apenas os numeros (1<=x<=100);
+* somar até que seja a soma seja maior que 500
+*/
+int main(void) {
+    int x;
+    int soma = 0;
+    do{
+      do{
+        printf("Digite um valor: ");
+        scanf("%d", &x);
+      }while (x<1 || x>100);
+      soma += x;
+    }while (soma<=500);
+    printf("Resultado: %d \n", soma);
+    return 0;
+}
