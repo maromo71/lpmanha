@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main(void) {
+    char nome[51];
+    fflush(stdin);
+    printf("Digite seu nome: ");
+    gets(nome);
+    puts(nome);
+    for (int i =0; i<51; i++){
+      if (nome[i]=='\0') break;
+      printf("%c\n", nome[i]);
+    }
+    return 0;
+}
