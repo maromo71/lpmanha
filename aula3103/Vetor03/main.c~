@@ -1,0 +1,10 @@
+/*
+3. Crie um programa que leia um vetor de 15 números inteiros e o apresente invertido. Por
+exemplo, se o vetor de entrada for [1,2,3,...,15], a saída deve ser [15,14,13,...,1].
+ */
+#include <stdio.h>
+#define T 15
+int main(void) {
+    printf("Hello, World!\n");
+    return 0;
+}
