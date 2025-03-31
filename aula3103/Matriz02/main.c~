@@ -1,6 +1,7 @@
 /*
 *2. Diagonal Principal: Desenvolva um programa que leia
-*   uma matriz 4x4 e imprima a sua diagonal principal.
+*   uma matriz 4x4 e imprima
+a sua diagonal principal.
  */
 #include <stdio.h>
 #include <stdlib.h>
