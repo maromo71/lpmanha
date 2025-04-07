@@ -1,0 +1,71 @@
+#include <stdio.h>
+//Cada parte de 1 a 5 está numerada na resolução
+int main(void) {
+    int n; // será a dimensao da matriz quadrada n x n
+    //1 . Ler a dimensao da matriz e validar
+    do {
+        printf("Digite um valor entre 2 e 10: \n");
+        scanf("%d", &n);
+    }while (n<2 || n>10); //validada a entrada
+    int matriz[10][10]; //pode ser n ou o limite maximo
+    //2. ler o consumo, percorrer a matriz pedindo a entrada do usuario
+    for (int i = 0; i < n; i++) {
+        for (int j = 0; j < n; j++) {
+            printf("Digite o valor de consumo em KW para a celula na linha %d e celula %d: \n", i+1, j+1);
+            scanf("%d", &matriz[i][j]);
+        }
+    }
+    //Exibindo a matriz informada, nao era necessario.
+    // Exibição da matriz formatada
+    printf("\nMatriz informada:\n");
+    for (int i = 0; i < n; i++) {
+        for (int j = 0; j < n; j++) {
+            printf("[ %3d]", matriz[i][j]);
+        }
+        printf("\n");
+    }
+    //3. imprimir a matriz diagonal principal e somar os elementos
+    int soma = 0;
+    printf("Diagonal entrada: ");
+    for (int p = 0; p < n; p++) {
+        printf("[%3d] ", matriz[p][p]);
+        soma += matriz[p][p];
+    }
+    printf(" soma: %d\n", soma);
+    //4. A quantidade de sensores com consumo par e com consumo impar
+    int par=0, impar=0;
+    for (int i = 0; i < n; i++) {
+        for (int j = 0; j < n; j++) {
+            if (matriz[i][j]%2==0){
+                par++;
+            }else{
+                impar++;
+            }
+        }
+    }
+    printf("Quantidade de sensores com consumo par: %d\n", par);
+    printf("Quantidade de sensores com consumo impar: %d\n", impar);
+    //5. A soma do consumo por linha e por coluna
+    // Soma das linhas
+    printf("\nSoma das linhas:\n");
+    for (int i = 0; i < n; i++) {
+        int somaLinha = 0;
+        for (int j = 0; j < n; j++) {
+            somaLinha += matriz[i][j];
+        }
+        printf("Linha %d: %d\n", i, somaLinha);
+    }
+
+    // Soma das colunas
+    printf("\nSoma das colunas:\n");
+    for (int j = 0; j < n; j++) {
+        int somaColuna = 0;
+        for (int i = 0; i < n; i++) {
+            somaColuna += matriz[i][j];
+        }
+        printf("Coluna %d: %d\n", j, somaColuna);
+    }
+
+
+    return 0;
+}

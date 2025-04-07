@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int main(void) {
+    int n;
+    int somapar=0;
+    int cont = 0;
+    do{
+        do {
+            printf("Digite um valor: ");
+            scanf("%d", &n);
+        }while (n<1 || n>99);
+        if (n%2==0) somapar+= n;
+        cont++;
+    }while (cont < 10);
+    printf("Soma: %d \n", somapar);
+    return 0;
+}
