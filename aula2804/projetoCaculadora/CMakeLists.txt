@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.30)
+project(projetoCaculadora C)
+
+set(CMAKE_C_STANDARD 11)
+
+add_executable(projetoCaculadora executarCalc.c
+        calculadora.c
+        calculadora.h
+        screen.c
+        screen.h)

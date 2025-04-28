@@ -1,0 +1,4 @@
+/**
+ * Menu Principal com as opcoes da calculadora
+ */
+void montarMenu();

@@ -1,0 +1,12 @@
+# ninja log v6
+16	173	7675496081374871	CMakeFiles/projetoCaculadora.dir/calculadora.c.obj	90eaacf0339738c4
+177	427	7675496082978973	projetoCaculadora.exe	813bf6a1f25be3e7
+6	177	7675496081274636	CMakeFiles/projetoCaculadora.dir/executarCalc.c.obj	5943b86f511e8c80
+24	168	7675503263837083	CMakeFiles/projetoCaculadora.dir/screen.c.obj	8d7825680d5235f9
+18	187	7675503263777531	CMakeFiles/projetoCaculadora.dir/executarCalc.c.obj	5943b86f511e8c80
+187	609	7675503265465194	projetoCaculadora.exe	89b945a1a9ce7218
+10	118	7675505402482916	CMakeFiles/projetoCaculadora.dir/screen.c.obj	8d7825680d5235f9
+4	120	7675505402417726	CMakeFiles/projetoCaculadora.dir/executarCalc.c.obj	5943b86f511e8c80
+120	308	7675505403586988	projetoCaculadora.exe	89b945a1a9ce7218
+36	168	7675507848966097	CMakeFiles/projetoCaculadora.dir/screen.c.obj	8d7825680d5235f9
+169	417	7675507850297383	projetoCaculadora.exe	89b945a1a9ce7218
