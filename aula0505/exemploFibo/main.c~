@@ -1,0 +1,27 @@
+#include <stdio.h>
+int fibo_classico(int n) {
+    if (n ==1 || n==2) return 1;
+    int p = 1;
+    int s = 1;
+    int prox;
+    for (int i=3; i<=n; i++) {
+        prox = p + s;
+        p = s;
+        s = prox;
+    }
+    return prox;
+}
+int fibo(int n) {
+    if (n==1 || n==2) return 1;
+    return fibo(n-1) + fibo(n-2);
+}
+int main(void) {
+    int valor;
+    printf("Qual a sequencia que deseja > 2\n");
+    scanf("%d",&valor);
+    int resultado = fibo(valor);
+    printf("Resultado: %d \n", resultado);
+    int resultado2 = fibo_classico((valor));
+    printf("Reultado 2: %d \n", resultado2);
+    return 0;
+}

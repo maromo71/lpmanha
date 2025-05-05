@@ -1,0 +1,10 @@
+#include <stdio.h>
+int fat(int n) {
+    if (n == 1) return 1;
+    printf("%d", n);
+    return n * fat(n-1);
+}
+int main(void) {
+    printf("Fatorial de 6 = %d\n", fat(6));
+    return 0;
+}
