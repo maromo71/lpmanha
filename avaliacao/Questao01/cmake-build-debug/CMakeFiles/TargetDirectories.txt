@@ -1,3 +1,0 @@
-C:/lpmanha/avaliacao/Questao01/cmake-build-debug/CMakeFiles/Questao01.dir
-C:/lpmanha/avaliacao/Questao01/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/lpmanha/avaliacao/Questao01/cmake-build-debug/CMakeFiles/rebuild_cache.dir

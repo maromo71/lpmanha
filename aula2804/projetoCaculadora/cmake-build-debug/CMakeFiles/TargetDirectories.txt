@@ -1,3 +1,0 @@
-C:/lpmanha/aula2804/projetoCaculadora/cmake-build-debug/CMakeFiles/projetoCaculadora.dir
-C:/lpmanha/aula2804/projetoCaculadora/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/lpmanha/aula2804/projetoCaculadora/cmake-build-debug/CMakeFiles/rebuild_cache.dir

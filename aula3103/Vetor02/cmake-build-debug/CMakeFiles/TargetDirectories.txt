@@ -1,3 +1,0 @@
-C:/lpmanha/aula3103/Vetor02/cmake-build-debug/CMakeFiles/Vetor02.dir
-C:/lpmanha/aula3103/Vetor02/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/lpmanha/aula3103/Vetor02/cmake-build-debug/CMakeFiles/rebuild_cache.dir

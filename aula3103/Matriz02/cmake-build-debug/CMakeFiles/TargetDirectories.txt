@@ -1,3 +1,0 @@
-C:/lpmanha/aula3103/Matriz02/cmake-build-debug/CMakeFiles/Matriz02.dir
-C:/lpmanha/aula3103/Matriz02/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/lpmanha/aula3103/Matriz02/cmake-build-debug/CMakeFiles/rebuild_cache.dir

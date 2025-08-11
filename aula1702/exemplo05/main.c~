@@ -1,9 +1,0 @@
-#include <stdio.h>
-
-int main(void) {
-    int a;
-    char palavra[52] = "Maromo";
-    int b, c, d, e;
-    printf("Valor de a: %d \n", d);
-    return 0;
-}

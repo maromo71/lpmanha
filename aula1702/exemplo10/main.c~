@@ -1,9 +1,0 @@
-#include <stdio.h>
-
-int main(void) {
-    unsigned char letra;
-    printf("Digite um letra: \n");
-    letra = (unsigned char) getchar();
-    printf("Letra: %c \n", letra);
-    return 0;
-}
