@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-    double =0.0; //obrigatorio
+    double soma =0.0; //obrigatorio
     double valor;
     printf("Somatoria de valores enq menor que 1000\n");
 
