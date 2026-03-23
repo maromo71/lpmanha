@@ -15,9 +15,15 @@ int main(void) {
         scanf("%d", &x);
     }while (!(n > 0 && x > 0));
     printf("Somatoria dos divisores ate n..\n");
+    int cont = 0;
     for (int i=1; i <=x; i++) {
-        if (x % i == 0) soma+= i;
-        if (n == x) break;
+        if (x % i == 0) {
+            soma+= i;
+            cont++;
+            printf("%d \n", i); //so para mostrar os divisores
+        }
+
+        if (cont == n) break;
     }
     printf("Soma = %d\n", soma);
     return 0;
