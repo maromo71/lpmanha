@@ -13,12 +13,14 @@ int main(void) {
             scanf("%d", &n);
         }while (!(n>0));
         int soma = 0; //zeramos para cada valor
+        printf("Somando os valores: ");
         for (int j=1; j<n; j++) {
             if (n % j == 0) {
+                printf("%d ", j);
                 soma+= j;
             }
         }
-        printf("Soma de seus divisores exatos: %d \n", soma);
+        printf("\nSoma de seus divisores exatos: %d \n", soma);
     }
 
     return 0;

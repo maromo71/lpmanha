@@ -7,8 +7,11 @@
 int main(void) {
     int n;
     int primo = 1;
-    printf("Digite um numero: ");
-    scanf("%d", &n);
+    do {
+        printf("Digite um numero maior ou igual a dois: ");
+        scanf("%d", &n);
+    }while (!n>=2);
+
     for (int i = 2; i <= n/2; i++) {
         if (n % i == 0) {
             primo = 0;
