@@ -1,0 +1,17 @@
+**Nível Baixo**
+
+1. **Radar de Pistas:** Uma pista de teste possui 10 sensores de velocidade instalados a cada 100 metros. Crie um programa que use um laço `for` declarando a variável de iteração no próprio cabeçalho (`for (int i = ...; ...; ...)`) para ler a velocidade registrada por cada um dos 10 sensores e, ao final, calcule e exiba a média geral das velocidades aferidas.
+2. **Cronômetro Regressivo de Lançamento:** Em uma simulação aeroespacial, o operador define um tempo inicial positivo $T$ (em segundos). Utilizando uma estrutura `for`, faça a contagem regressiva de $T$ até 0, exibindo a cada passo a mensagem `"T-menos X segundos..."` e, ao atingir zero, a mensagem `"Decolagem!"`.
+3. **Gerador de Tabuada Personalizada:** Escreva um programa que solicite ao usuário um número inteiro $N$ e o limite máximo $L$. Utilizando um laço `for`, imprima a tabuada desse número partindo de 1 até $L$, no formato: `N x i = resultado`.
+4. **Monitor de Temperatura em Estufa:** Durante um experimento, são registradas as temperaturas horárias de uma estufa ao longo de um turno de 12 horas. Com um único laço `for`, receba as 12 leituras e mostre, ao final, apenas a menor e a maior temperatura computadas no período.
+5. **Soma dos Pares de um Intervalo:** Faça um programa que leia dois valores inteiros, $A$ e $B$ ($A < B$). Com um comando `for`, percorra o intervalo fechado $[A, B]$, acumule a soma de todos os números pares encontrados e exiba o total calculado.
+
+---
+
+**Nível Médio**
+
+6. **Painel ASCII de Triângulo Numérico:** Crie um gerador de padrão visual para um console de jogo retrô. O programa deve ler um inteiro $H$ (altura do triângulo, entre 1 e 9) e, utilizando laços `for` aninhados, imprimir uma pirâmide alinhada à esquerda onde a linha $i$ contenha o número $i$ repetido $i$ vezes (exemplo para $H = 4$: linha 1: `1`, linha 2: `2 2`, linha 3: `3 3 3`, linha 4: `4 4 4 4`).
+7. **Série dos Fatoriais Intercalados:** Escreva um programa que receba um número inteiro positivo $K$ ($K \le 12$). Utilizando um único laço `for` para a progressão e acumuladores adequados (evitando laços aninhados redundantes), exiba o fatorial de cada número de 1 até $K$ em linhas consecutivas.
+8. **Aproximação de Decaimento Radioativo:** Uma amostra isotópica de massa inicial $M$ (em gramas) perde metade de sua massa a cada ciclo de 50 anos. Dado um número total de ciclos $C$ fornecido pelo usuário, use um laço `for` com variáveis de controle de ponto flutuante/inteiro para tabular: o ano transcorrido (de 50 em 50), a porcentagem restante de massa e a massa residual após cada ciclo.
+9. **Detector de Números Primos:** Desenvolva um validador criptográfico simples que receba um inteiro positivo $P$. Utilizando um laço `for` com condição de parada otimizada (interrompendo a busca caso encontre um divisor até $\sqrt{P}$), determine e informe se $P$ é um número primo ou composto, exibindo o primeiro divisor encontrado em caso negativo.
+10. **Tabulação de Juros Compostos com Passo Customizado:** Um analista precisa simular o crescimento de um aporte inicial $V$ a uma taxa de juros anual $J$ (em %) por um período de $N$ anos. Com um comando `for`, calcule e exiba uma tabela formatada contendo o ano, o rendimento obtido naquele ano e o saldo acumulado total ao final de cada período.
